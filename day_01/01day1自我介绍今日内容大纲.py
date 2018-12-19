@@ -31,29 +31,34 @@
 username = "wll"
 userpassword = 8888
 count = 3
-while count <= 3:
+while count > 0:
     input_username = input("请输入你的用户名：")
     if username == str(input_username):
         input_password = input("请输入你的密码：")
-        if userpassword == int(input_password):
+        if userpassword == input_password:
                 print("欢迎 %s 登入系统!!!" % input_username)
                 break
         else:
             count -= 1
+            print(count)
             print('''
-                用户名或者密码错误 !!!
+                密码错误 !!!
                 你输入的用户名为：%s
                 你输入的密码为：%s
                 你还有 %s 次机会！！！
                   '''
                   %(input_username, input_password, count))
+            if count == 0:
+                print("你的机会已用完，你是否想继续？")
+                answer = input("请输入 [Y] or [N]～")
+                if str(answer) == "Y":
+                    count = 3
+                    print(count)
     else:
         count -= 1
-        print("你输入的用户名不存在")
+        print("你输入的用户名不存在,你还有%s次机会"%count)
         continue
 else:
-    print("你的机会已用完，你是否想继续？")
-
-
+    print("你的机会已用完,再见～")
 
 
