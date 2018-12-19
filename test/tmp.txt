@@ -1,6 +1,7 @@
-服务笔记
-python
-untitled1
-s9
-s14
-.idea
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
+s = 'ABCDLSESRF'
+#索引
+s1 = s[0]
+print(s1)
+s2 = s[2]
