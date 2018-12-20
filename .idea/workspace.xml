@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10dfcee9-ce0a-47f8-bb8f-28f13dce63b4" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/1 今日内容大纲.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/2 具体作业代码.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/3，int.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/4，bool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/5，str.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" afterPath="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" />
-    </list>
+    <list default="true" id="10dfcee9-ce0a-47f8-bb8f-28f13dce63b4" name="默认的" comment="" />
     <ignored path="Python_OldBoy.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
