@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10dfcee9-ce0a-47f8-bb8f-28f13dce63b4" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/写代码简洁的技巧.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/1 今日内容大纲.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/2 具体作业代码.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/3，int.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/4，bool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day_01/5，str.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py" afterPath="$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day_03/03day3数据类型intbool讲解及intboolstr转化.py" afterPath="$PROJECT_DIR$/day_03/03day3数据类型intbool讲解及intboolstr转化.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" afterPath="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" />
     </list>
     <ignored path="Python_OldBoy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +27,7 @@
     <SUITE FILE_PATH="coverage/Python_OldBoy$02day1.coverage" NAME="02day1初始计算机系统 Coverage Results" MODIFIED="1545133778371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_01" />
     <SUITE FILE_PATH="coverage/Python_OldBoy$02day3strfor.coverage" NAME="02day3str常用操作方法及for循环 Coverage Results" MODIFIED="1545269070605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_03" />
     <SUITE FILE_PATH="coverage/Python_OldBoy$01day1.coverage" NAME="01day1自我介绍今日内容大纲 Coverage Results" MODIFIED="1545189467818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_01" />
-    <SUITE FILE_PATH="coverage/Python_OldBoy$02day3.coverage" NAME="02day3数据类型整体分析 Coverage Results" MODIFIED="1545208133383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_03" />
+    <SUITE FILE_PATH="coverage/Python_OldBoy$02day3.coverage" NAME="02day3数据类型整体分析 Coverage Results" MODIFIED="1545270598849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_03" />
     <SUITE FILE_PATH="coverage/Python_OldBoy$04day1python.coverage" NAME="04day1python分类 Coverage Results" MODIFIED="1545200155357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_01" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -35,7 +38,40 @@
     <favorites_list name="Python_OldBoy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01day3昨日内容回顾及作业讲解.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_03/01day3昨日内容回顾及作业讲解.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02day3数据类型整体分析.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day_03/02day3数据类型整体分析.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13392857">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02day3str常用操作方法及for循环.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+              <folding>
+                <element signature="e#42#150#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,11 +85,11 @@
         <option value="$PROJECT_DIR$/day_03/01day3昨日内容回顾及作业讲解.py" />
         <option value="$PROJECT_DIR$/day_01/04day1python分类.py" />
         <option value="$PROJECT_DIR$/test/tmp.txt" />
-        <option value="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" />
         <option value="$PROJECT_DIR$/写代码简洁的技巧.py" />
         <option value="$PROJECT_DIR$/day_03/03day3数据类型intbool讲解及intboolstr转化.py" />
         <option value="$PROJECT_DIR$/day_03/04day3str索引切片.py" />
         <option value="$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py" />
+        <option value="$PROJECT_DIR$/day_03/02day3数据类型整体分析.py" />
       </list>
     </option>
   </component>
@@ -63,8 +99,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="554" />
-    <option name="y" value="175" />
+    <option name="x" value="534" />
+    <option name="y" value="218" />
     <option name="width" value="885" />
     <option name="height" value="678" />
   </component>
@@ -164,7 +200,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/erlong/OneDrive/PycharmProjects/Python_OldBoy/day_01/04day1python分类.py" />
   </component>
-  <component name="RunManager" selected="Python.02day3str常用操作方法及for循环">
+  <component name="RunManager" selected="Python.02day3数据类型整体分析">
     <configuration default="false" name="03day1python历史" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,9 +493,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.02day3str常用操作方法及for循环" />
-        <item index="1" class="java.lang.String" itemvalue="Python.03day3数据类型intbool讲解及intboolstr转化" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02day3数据类型整体分析" />
+        <item index="0" class="java.lang.String" itemvalue="Python.02day3数据类型整体分析" />
+        <item index="1" class="java.lang.String" itemvalue="Python.02day3str常用操作方法及for循环" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03day3数据类型intbool讲解及intboolstr转化" />
         <item index="3" class="java.lang.String" itemvalue="Python.03day1python历史" />
         <item index="4" class="java.lang.String" itemvalue="Python.04day1python分类" />
       </list>
@@ -479,8 +515,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="175" width="885" height="678" extended-state="0" />
-    <editor active="false" />
+    <frame x="534" y="218" width="885" height="678" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -491,7 +527,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36635515" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -611,33 +647,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day_03/01day3昨日内容回顾及作业讲解.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2366864">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day_03/04day3str索引切片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.7395496">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-          <folding>
-            <element signature="e#42#150#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day_03/02day3数据类型整体分析.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -649,6 +659,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.95498395">
           <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_03/02day3str常用操作方法及for循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding>
+            <element signature="e#42#150#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_03/01day3昨日内容回顾及作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_03/02day3数据类型整体分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13392857">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>

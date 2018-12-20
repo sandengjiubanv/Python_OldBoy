@@ -1,4 +1,4 @@
-#字符串的索引与切片
+# 字符串的索引与切片
 '''
 s = 'ABCDLSESRF'
 #索引
@@ -35,7 +35,7 @@ s15 = s[::-1]
 print(s15)
 '''
 
-#字符串的操作
+# 字符串的操作
 s = 'alexWUsir'
 s1 = s.capitalize()  # 首字母大写
 # print(s1)
@@ -52,7 +52,7 @@ if s_str.upper() == you_input.upper():
 else:
     print('请重新输入')
 '''
-#大小写翻转
+# 大小写翻转
 # s3 = s.swapcase()
 # print(s3)
 # 每个隔开(特殊字符或者数字)的单词首字母大写
@@ -63,7 +63,7 @@ else:
 # s4 = s.title()
 # print(s4)
 
-#居中，空白填充
+# 居中，空白填充
 # s = 'alexWUsir'
 # s5 = s.center(20,'~')
 # print(s5)
@@ -77,7 +77,7 @@ else:
 # l = len(s)
 # print(l)
 
-#以什么开头结尾 endswith
+# 以什么开头结尾 endswith
 # s = 'alexWUsir'
 # s7 =s.startswith('alex')
 # s71 = s.startswith('e',2,5)
@@ -97,7 +97,7 @@ print(s7)
 # s81 = s.index('A')
 # print(s81,type(s8))
 
-#strip rstrip lstrip
+# strip rstrip lstrip
 # s = 'alexWUsir%'
 # s9 = s.strip('%')
 # print(s9)
@@ -120,7 +120,7 @@ print(s7)
 # l = s.split('a')
 # print(l)
 
-#format的三种玩法 格式化输出
+# format的三种玩法 格式化输出
 # s = '我叫{}，今年{}，爱好{}，再说一下我叫{}'.format('太白',36,'girl','太白')
 # print(s)
 # name = input('请输入名字：')
