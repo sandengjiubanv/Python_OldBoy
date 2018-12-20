@@ -32,7 +32,7 @@ print("s7-8",s7,s8)
 s9 = s[0:0]
 print("s9",s9)
 '''
-'''
+
 s = 'ABCDLSESRF'  # s[首:尾:步长]
 s10 = s[0:5:2]
 print("s10", s10)
@@ -42,18 +42,19 @@ s12 = s[3::-1]
 print("s12", s12)
 s13 = s[3::-2]
 print("s13", s13)
-s = 'ABCDLSESRF'
 s14 = s[-1::-1]
 print("s14", s14)
 s15 = s[::-1]
 print("s15", s15)
-'''
+s16 = s[::]
+print("s16", s16)
 
 
 # 字符串的操作
-s = 'alexWUsir'
-s1 = s.capitalize()  # 首字母大写
-print("s1", s1)
+# s = 'alexWUsir'
+# s1 = s.capitalize()  # 首字母大写
+# print("s1", s1)
+
 
 '''
 # 全大写，全小写
@@ -71,7 +72,7 @@ if s_str.upper() == you_input.upper():
 else:
     print('请重新输入')
 '''
-
+'''
 # 大小写翻转
 s3 = s.swapcase()
 print("s3", s3)
@@ -105,7 +106,7 @@ s7 = s.startswith('alex')
 s71 = s.startswith('e', 2, 5)
 print("s7", s7)
 print("s71", s71)
-
+'''
 
 # if s7:
 #     pass
@@ -113,7 +114,7 @@ print("s71", s71)
 #     pass
 # print(s7)
 
-
+'''
 # find 通过元素找索引，找不到返回-1
 # index通过元素找索引，找不到报错
 s = 'alexWUsir'
@@ -134,8 +135,9 @@ print("s9", s9)
 s = ' *a%lexWUsi* r%'
 s91 = s.strip(' %*')
 print("s91", s91)
+'''
 
-
+'''
 # strip 默认删除前后空格
 
 # username = input('请输入名字：').strip()
@@ -167,6 +169,8 @@ s = '来看待街坊邻居复合大师街坊法好的撒见客户'
 s11 = s.replace('街坊','老王',1)
 print(s11)
 '''
+
+'''
 s = 'fhdsklfds'
 for i in s:
     print(i)
@@ -177,9 +181,3 @@ s = 'fdsa苍井空fdsalk'
 if '苍井空' in s:
     print('您的评论有敏感词...')
 '''
-
-
-
-
-
-
