@@ -1,2 +1,4 @@
-# Python_OldBoy
-this is study  repository for Python_OldBoy.
+# README
+
+这个 ==repository== 是学习老男孩py用的。
+
