@@ -82,19 +82,38 @@
 #
 #
 
-# -*- coding: utf-8 -*-
-words = input("请输入单词：")
-words_length = len(int(words))
-# print(words_length)
-print("字符长度为：", str(words_length))
+# # -*- coding: utf-8 -*-
+# words = input("请输入单词：")
+# words_length = len(int(words))
+# # print(words_length)
+# print("字符长度为：", str(words_length))
+#
+# words_count = words.split(' ')
+# print(words_count)
+# print(len(words_count))
+# print("单词个数为：", str(len(words_count)))
+#
+# # len(',',words_count)
 
-words_count = words.split(' ')
-print(words_count)
-print(len(words_count))
-print("单词个数为：", str(len(words_count)))
 
-# len(',',words_count)
 
+s = 'dwaoidoiawdoiohoq'
+
+# for i in s:
+#     print(i)
+
+
+# index = 0
+# while 1:
+#     print(s[index])
+#     index += 1
+#     if index == len(s):
+#         break
+
+
+content = input("请输入加数 + 被加数: ").strip()
+
+print(content.find("+"))
 
 
 

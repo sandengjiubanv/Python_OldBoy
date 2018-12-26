@@ -1,7 +1,7 @@
 .
 ├── 01.基础+模块+面向对象+网络编程
 │   ├── day01
-│   │   ├── 01 python fullstack s9day1 自我介绍今日内容大纲.mp4
+│   │   ├── 01 python fullstack s9day1 自我介绍今日内容大纲.mp4 -
 │   │   ├── 02 python fullstack s9day1 初始计算机系统 .mp4
 │   │   ├── 03 python fullstack s9day1 python历史.mp4
 │   │   ├── 04 python fullstack s9day1 python分类.mp4
@@ -55,7 +55,7 @@
 │   │       ├── 4，bool.py
 │   │       └── 5，str.py
 │   ├── day04
-│   │   ├── 01 python fullstack s9day4 昨日内容回顾及作业讲解.mp4
+│   │   ├── 01 python fullstack s9day4 昨日内容回顾及作业讲解.mp4 -
 │   │   ├── 02 python fullstack s9day4 列表的增删改查以及嵌套.mp4
 │   │   ├── 03 python fullstack s9day4 元祖的嵌套，range，for循环的嵌套.mp4
 │   │   └── day4课堂笔记

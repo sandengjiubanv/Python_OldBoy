@@ -1,3 +1,9 @@
-print(5 < 4 or 3)
-print(2 > 1 or 6)
-print(3 > 1 and 0)
+s = "aleX le Nb"
+print(s.strip())
+print(s.lstrip("al"))
+print(s.rstrip("Nb"))
+print(s.strip("ab"))
+print(s.startswith("al"))
+print(s.endswith("Nb"))
+print(s.replace("l","p"))
+print()
