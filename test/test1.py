@@ -114,7 +114,12 @@ s = 'dwaoidoiawdoiohoq'
 
 content = input("请输入加数 + 被加数: ").strip()
 
-print(content.find("+"))
 
+w = content.find("+")
+print(w)
+
+print(content[0:w])
+
+# print(content.lstrip("+"))
 
 
